@@ -41,8 +41,16 @@ Please check our <a href="https://github.com/halbockly/SmartController/wiki">*Wi
   2. select the Home Appliance that you want to manipulate
 
   3. select a type of manipulation
-  
+
   4. turn ON or OFF the Home Appliance
+  
+  <br>
+  <br>
+  
+<span>
+  <img src="https://user-images.githubusercontent.com/39425808/85688774-06841a00-b70d-11ea-8a24-e731bb89c656.GIF" width="300px" height="500px">
+  <img src="https://user-images.githubusercontent.com/39425808/85689030-3fbc8a00-b70d-11ea-82be-30ad2d4a5316.GIF" width="300px" height="500px">
+</span>
 
 <br>
 
